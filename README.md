@@ -9,7 +9,7 @@ Your objective is to arrange the numbered tiles from 1 to 15 in order, with the 
 Playing this game is very simple: all you have to do is to click on any tile adjacent to the empty space to slide it into the empty position. You can only move tiles that are next to the empty space. Move tiles strategically to gradually organize them.
 
 ## Playing the game
-The game can be played here: https://adium1000.github.io/snowyfifteen. 
+The game can be played here: https://adium1000.github.io/SnowyFifteen. 
 
 ## Installing the game
 The game can be installed as a Progressive Web Application (PWA). To do that, open the game using the link above, click on the following icon in the address bar:
