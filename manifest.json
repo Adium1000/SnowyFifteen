@@ -1,0 +1,14 @@
+{
+  "short_name": "SnowyFifteen",
+  "name": "SnowyFifteen",
+  "icons": [
+    {
+      "src": "/assets/icon.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#484A52",
+  "background_color": "#484A52"
+}
